@@ -2,7 +2,7 @@ package usecase
 
 import (
 	"github.com/leandrobraga/goexpert-desafio-cleanarch/internal/entity"
-	"github.com/leandrobraga/goexpert-desafio-cleanarch/internal/pkg/events"
+	"github.com/leandrobraga/goexpert-desafio-cleanarch/pkg/events"
 )
 
 type OrderInputDTO struct {

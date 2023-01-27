@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	"github.com/leandrobraga/goexpert-desafio-cleanarch/internal/entity"
-	"github.com/leandrobraga/goexpert-desafio-cleanarch/internal/pkg/events"
 	"github.com/leandrobraga/goexpert-desafio-cleanarch/internal/usecase"
+	"github.com/leandrobraga/goexpert-desafio-cleanarch/pkg/events"
 )
 
 type WebOrderHandler struct {

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/leandrobraga/goexpert-desafio-cleanarch/internal/pkg/events"
+	"github.com/leandrobraga/goexpert-desafio-cleanarch/pkg/events"
 	ampq "github.com/rabbitmq/amqp091-go"
 )
 
